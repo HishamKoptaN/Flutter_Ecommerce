@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "201790637251",
+    "firebase_url": "https://rooms-3ddf2-default-rtdb.firebaseio.com",
+    "project_id": "rooms-3ddf2",
+    "storage_bucket": "rooms-3ddf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201790637251:android:7b7f818c342aaaa85f4e76",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201790637251-4oh0ipkm0j0mq873943so445meo7i5cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFcnpEbiRDgRI_sM3lZw67qvVUjHFD0tQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201790637251-4oh0ipkm0j0mq873943so445meo7i5cq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
